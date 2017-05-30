@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"li_node"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"re",
+				"returnText"
+			],
+			[
+				"in",
+				"input"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 884,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.css",
+			"settings":
+			{
+				"buffer_size": 986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			"mport urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Alpha/dev/bonheimpharma/src"
+	],
+	"file_history":
+	[
+		"/Users/Alpha/dev/bonheimpharma/src/Hover.js",
+		"/Users/Alpha/dev/bonheimpharma/README.md",
+		"/Users/Alpha/Desktop/Codebase/Colourpicker/4edf3c21f0107a1099cc237dc6c8d66b-master/index.html",
+		"/Users/Alpha/Desktop/Codebase/JQUERY/jquery.js",
+		"/Users/Alpha/Desktop/Codebase/JQUERY/script.js",
+		"/Users/Alpha/Desktop/Codebase/JQUERY/index.html",
+		"/Users/Alpha/Library/Mobile Documents/com~apple~CloudDocs/To do",
+		"/Users/Alpha/Downloads/lastpass2keepass-master/Why the Wellcome trust graduate scheme?",
+		"/Users/Alpha/Downloads/lastpass2keepass-master/README.pod",
+		"/Users/Alpha/Documents/Pharma notes",
+		"/Users/Alpha/Documents/Stem cells",
+		"/Users/Alpha/Documents/Pharamaceutical law",
+		"/Users/Alpha/Documents/Kara's exercise regime",
+		"/Users/Alpha/Library/Mobile Documents/com~apple~CloudDocs/Moral relativism between cultures sets constraints",
+		"/Users/Alpha/Library/Mobile Documents/com~apple~CloudDocs/Trust.txt",
+		"/Users/Alpha/Documents/Nudge thoery demonstrating little awareness of tru",
+		"/Users/Alpha/Documents/Diet",
+		"/Users/Alpha/Documents/Law and regulation of Biotechnology",
+		"/Users/Alpha/Documents/Legal research and writing skills Law 685",
+		"/Users/Alpha/Documents/Principle of Bioethics",
+		"/Users/Alpha/Documents/International biolaw",
+		"/Users/Alpha/Documents/organ donation.txt",
+		"/Users/Alpha/Documents/In their book Nudge, Richard Thaler and Cass Sunst.txt",
+		"/Users/Alpha/Documents/essayyyy",
+		"/Users/Alpha/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Alpha/Documents/The General Conference.txt",
+		"/Users/Alpha/Documents/workingWhat do you consider to be the strengths, and what",
+		"/Users/Alpha/Documents/What do you consider to be the strengths, and what",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/Alpha/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Alpha/test.tidal",
+		"/Users/Alpha/Desktop/Photo on 31-08-2014 at 08.43 #2.jpg",
+		"/Users/Alpha/Documents/Poetry/On sex",
+		"/Users/Alpha/Downloads/cNkYA6DS.txt",
+		"/Users/Alpha/Downloads/3dlig_ac1be6d2e0d394eb-1/pymolScript.py",
+		"/Users/Alpha/Downloads/3dlig_ac1be6d2e0d394eb/pymolScript.py",
+		"/Users/Alpha/pymolScript.py",
+		"/Users/Alpha/Downloads/3dlig_4efaa655d5e8b004/pymolScript.py",
+		"/Users/Alpha/Dropbox/housingstuff/Attempts to enter room.txt",
+		"/Users/Alpha/Dropbox/housingstuff/Attempts to enter room.",
+		"/Users/Alpha/Dropbox/Indian asian genome/VDR/VDR_HUMAN",
+		"/Users/Alpha/Dropbox/Indian asian genome/tyr/TYR",
+		"/Users/Alpha/Dropbox/Indian asian genome/TRL6/TRL6",
+		"/Users/Alpha/Dropbox/Indian asian genome/SLC52A1/SLC52A1",
+		"/Users/Alpha/Dropbox/Indian asian genome/TRHY/TRHY_HUMAN",
+		"/Users/Alpha/Dropbox/mebranes plan",
+		"/Users/Alpha/Library/Application Support/Steam/SteamApps/common/Sid Meier's Civilization V/Civilization V.app/Contents/Home/Assets/UI/FrontEnd/MainMenu.lua",
+		"/Users/Alpha/Dropbox/Indian asian genome/SLC45A2/SLC45A2 ENST00000296589",
+		"/Users/Alpha/Dropbox/Indian asian genome/SH2B3/SH2B3",
+		"/Users/Alpha/Dropbox/Indian asian genome/POU2F3/POU2F3",
+		"/Users/Alpha/Dropbox/Indian asian genome/NOBOX/NOBOX",
+		"/Users/Alpha/Dropbox/Indian asian genome/KRT3/KRT3",
+		"/Users/Alpha/Dropbox/Indian asian genome/98/98",
+		"/Users/Alpha/Dropbox/Indian asian genome/33/ITGA4",
+		"/Users/Alpha/Dropbox/Indian asian genome/87/ENST00000263087",
+		"/Users/Alpha/Dropbox/Indian asian genome/98",
+		"/Users/Alpha/Dropbox/Indian asian genome/ENST00000532917/ENST00000532917",
+		"/Users/Alpha/Dropbox/Indian asian genome/ENST00000205948/ENST00000205948",
+		"/Users/Alpha/Dropbox/Indian asian genome/99/ENST00000368799",
+		"/Users/Alpha/Dropbox/Indian asian genome/39/ENST00000367739",
+		"/Users/Alpha/Documents/Coursework scraps/Opinion article",
+		"/Users/Alpha/Documents/ENST00000452341",
+		"/Users/Alpha/Dropbox/Indian asian genome/39/ENST000003677391",
+		"/Users/Alpha/Documents/Coursework scraps/cancer bio shit",
+		"/Users/Alpha/Documents/Coursework scraps/membranes/AE1",
+		"/Users/Alpha/Documents/Coursework scraps/Your opinion on future developments  – 25%",
+		"/Users/Alpha/Documents/Coursework scraps/Do you think it is an important advance in the fie",
+		"/Users/Alpha/Documents/Coursework scraps/It is known that Cancer stem cells exist within ca",
+		"/Users/Alpha/Documents/Coursework scraps/Summary of study aims:objectives – 25%",
+		"/Users/Alpha/Documents/Lecture note scraps/concalavin A",
+		"/Users/Alpha/Documents/Lecture note scraps/Sodium transporter thing",
+		"/Users/Alpha/Documents/Coursework scraps/Significance",
+		"/Users/Alpha/Documents/Coursework scraps/Cancer stem cells",
+		"/Users/Alpha/Documents/Coursework scraps/The main aim of this paper was to better understan",
+		"/Users/Alpha/Documents/Opinion article",
+		"/Users/Alpha/Documents/Do you think it is an important advance in the fie",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/Fastas.txt",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/Look for mtuation in modelled areas",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/ENST00000368799 variant 2",
+		"/Users/Alpha/Dropbox/Indian asian genome/ENST00000205948/clustral48.fasta",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/ENST00000368799 variant 1",
+		"/Users/Alpha/Dropbox/Indian asian genome/Mutaitons for indian asian.",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 9 IA-17-3657159-T   ENSP00000263087",
+		"/Users/Alpha/Dropbox/Indian asian genome/Ensembl codes.txt",
+		"/Users/Alpha/Downloads/mart_export.txt",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 7 IA-2-182395345-A ENSP00000380227 ",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 4 IA-1-152280032-C  ENSP00000357789",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 6 IA-6-137519238-G ENSP00000356713",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 3 IA-1-152280032-C  ENSP00000357789 ",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 2 IA-11-118221350-T  ENSP00000431445 ",
+		"/Users/Alpha/Dropbox/Indian asian genome/Indian asian genome fasta/mutation 1 IA-17-64210757-A  ENSP00000205948",
+		"/Users/Alpha/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/saves/Stargate/persistent.sfs",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP14",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP 13",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP5",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP6",
+		"/Users/Alpha/Documents/Genomics project/SNP4/SNP4.txt",
+		"/Users/Alpha/Documents/Genomics project/SNP3/SNP3.txt",
+		"/Users/Alpha/Documents/Genomics project/SNP1/SNP1.txt",
+		"/Users/Alpha/Dropbox/bioinfocancer/SNP 8",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/chr11:533875C>A",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP51",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP10",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP 9",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP 8",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP7",
+		"/Users/Alpha/Documents/Genomics project/SNP2/SNP2.txt",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP 12",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP11",
+		"/Users/Alpha/Documents/sublime text/bioinfocancer/SNP3 proper",
+		"/Users/Alpha/Desktop/SNP 8",
+		"/Users/Alpha/Documents/sublime text/br169 server password",
+		"/Users/Alpha/Dropbox/Introduction.txt",
+		"/Users/Alpha/Documents/boop/Cancer biology dan lloyd",
+		"/Users/Alpha/Documents/boop/rbn.fasta"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"append",
+			"strip",
+			"solute c",
+			"homo",
+			"ENST00000205948",
+			"science",
+			" ",
+			"MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV\nVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA\nVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF\nQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC\nTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV\nVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK\nNCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF\nENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL\nFGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN\nLLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM\nGENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV\nALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS\nGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI\nCLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA\nRNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY\nGVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK\nFRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ\nQGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED\nSIDDTFLPVPGEWLVWKQSCSSTSSTHSAAASLQCPSQVLPPASPEGETVADLQTQ\n",
+			"ESYN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV\nVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA\nVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF\nQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC\nTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV\nVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK\nNCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF\nENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL\nFGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN\nLLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM\nGENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV\nALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS\nGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI\nCLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA\nRNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY\nGVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK\nFRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ\nQGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED\nSIDDTFLPVPGEWLVWKQSCSSTSSTHSAAASLQCPSQVLPPASPEGETVADLQTQ\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 473,
+								"count": 45,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bonheimPharma.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/lastpass2keepass-master/Why the Wellcome trust graduate scheme?"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

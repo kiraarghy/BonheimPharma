@@ -19,23 +19,23 @@ constructor(props) {
 
   render() {
 
-    var elementToShow = null;
-
-    switch (this.state.selectedTab) {
-      case 'Drugs':
-            elementToShow = <Drugs />;
-            break;
-      case 'Reports':
-            elementToShow = <Reports />;
-            break;
-      case 'Blog':
-            elementToShow = <Blog />;
-            break;
-      case 'Events':
-            elementToShow = <Events />;
-            break;
-
-    }
+    // var elementToShow = null;
+    //
+    // switch (this.state.selectedTab) {
+    //   case 'Drugs':
+    //         elementToShow = <Drugs />;
+    //         break;
+    //   case 'Reports':
+    //         elementToShow = <Reports />;
+    //         break;
+    //   case 'Blog':
+    //         elementToShow = <Blog />;
+    //         break;
+    //   case 'Events':
+    //         elementToShow = <Events />;
+    //         break;
+    //
+    // }
 
     var onClickGenerator = (Tab) => {
       return () => {this.setState({selectedTab: Tab})}
@@ -66,7 +66,10 @@ constructor(props) {
           </div>
         </div>
         <div className="Dynamic-Elements-Container">
-          {elementToShow}
+          <div style={{display: this.state.selectedTab === 'Drugs' ? 'block': 'none'}}><Drugs /></div>
+          <div style={{display: this.state.selectedTab === 'Reports' ? 'block': 'none'}}><Reports /></div>
+          <div style={{display: this.state.selectedTab === 'Blog' ? 'block': 'none'}}><Blog /></div>
+          <div style={{display: this.state.selectedTab === 'Events' ? 'block': 'none'}}><Events /></div>
         </div>
 
         <p className="App-intro">
